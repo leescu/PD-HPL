@@ -97,7 +97,7 @@ $ cd PD-HPL
 [./code/Step. 3 Arangement.R](https://github.com/leescu/PD-HPL/blob/main/code/Step.%203%20Arangement.R)
 
 
-### 4. Tables&Figures
+### 4. Analysis, Tables&Figures
 
 [./code/Step. 4 Analysis.R](https://github.com/leescu/PD-HPL/blob/main/code/Step.%204%20Analysis.R)
 
