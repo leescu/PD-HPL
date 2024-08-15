@@ -1,7 +1,7 @@
-Periodontitis and the risk of all-cause and cause-specific mortality among US adults with diabetes: A population-based cohort study
+Association between periodontitis with the all-cause and cause specific mortality among the population with hyperlipidemia
 ==============================
 
-This code is the details of the manuscript "Periodontitis and the risk of all-cause and cause-specific mortality among US adults with diabetes: A population-based cohort study".
+This code is the details of the manuscript "Association between periodontitis with the all-cause and cause specific mortality among the population with hyperlipidemia".
 
 
 ## Table of Contents
@@ -15,10 +15,9 @@ This code is the details of the manuscript "Periodontitis and the risk of all-ca
  
 ## Overview
 
-Aim: To evaluate the association between periodontitis, all-cause, and cause-special mortality, and its prognostic utility among adults with diabetes. 
-Materials and Methods: Periodontal health records were retrieved from the NHANES database for 4,297 participants aged over 30 years at baseline with diabetes during 1988–1994, 1999–2004, and 2009–2014. Multivariable Cox proportional hazards regression model was applied to calculate hazard ratios (HRs) and 95% confidence intervals (CIs) for moderate/severe periodontitis with all-cause and cause-specific mortality in participants with diabetes. Area under the curve (AUC) assessed predictive value.
-Results: During a median follow-up of 9.42 years, 1,701 deaths occurred. After multivariate adjustments, moderate/severe periodontitis was significantly associated with increased risk of all-cause (HR: 1.27; 95% CI: 1.07–1.50; P = 0.005) and cardiovascular disease (CVD)-related mortality (HR: 1.35, 95% CI: 1.03–1.76, P = 0.031) in participants with diabetes. Periodontitis improved prediction of all-cause (AUC: 0.652; 95% CI: 0.627–0.676) and CVD-related mortality (AUC: 0.649; 95% CI: 0.624–0.676) over standard risk factors (All cause: AUC: 0.631; 95% CI: 0.606–0.656. CVD-related: AUC: 0.629; 95% CI: 0.604–0.655).
-Conclusions: Moderate/severe periodontitis is associated with an increased risk of all-cause and CVD-related mortality in adults with diabetes. Periodontitis might represent a marker for residual risk.
+Objective: To explore the association between periodontitis and all-cause as well as cause-specific mortality rates in U.S. adults with hyperlipidemia.
+Materials and Methods: Participants were extracted from NHANES during 1988-1994, 1999-2004 and 2009-2014 periods. To assess the association between moderate-to-severe periodontitis and mortality rates for both all-cause and cause-specific mortality, hazard ratios (HRs), time ratios (TRs), and their respective 95% confidence intervals (CIs) were calculated using Cox proportional hazards and Weibull accelerated failure time (AFT) models. 
+Results: Over a median follow-up duration of 11.83 years, 4623 deaths of 16,848 participants were recorded. Multivariate Cox regression and AFT analyses showed moderate-to-severe periodontitis were associated with an increased risk of all-cause (HR: 1.31, 95% CI: 1.20 - 1.44, P < 0.001; TR: 0.85, 95% CI: 0.80 - 0.90, P < 0.001), cardiovascular disease (CVD)-related (HR: 1.36, 95% CI: 1.14 - 1.63, P = 0.001; TR: 0.83, 95% CI: 0.75 - 0.92, P < 0.001) and cancer-related mortality ( HR: 1.35, 95% CI: 1.12 - 1.63, P = 0.002; TR: 0.82, 95% CI: 0.72 - 0.93, P = 0.002). Meanwhile, there was a significant upward trend in the risk of mortality with increasing severity of periodontitis (P for trend <0.001).
 
 
 ## System Requirements
