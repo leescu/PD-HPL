@@ -84,13 +84,13 @@ $ cd PD-HPL
 
 ## Details
 
-### 1.Calculation of periodontal status and diabetes
+### 1.Calculation of Exposure and Outcomes
 
-[./Step. 1 Exposure&Outcomes.R](https://github.com/leescu/PD-HPL/blob/code/Step. 1 Exposure&Outcomes.R)
+[./code/Step. 1 Exposure&Outcomes.R](https://github.com/leescu/PD-HPL/blob/main/code/Step.%201%20Exposure%26Outcomes.R)
 
 ### 2.Calculation of covariates
 
-[./Covariates_predict.R](https://github.com/leescu/PD-HPL/blob/main/Covariates_predict.R)
+[./Covariates_predict.R](https://github.com/leescu/PD-HPL/blob/main/code/Step.%202%20Covariates.R)
 
  
 ### 3.Data clearn
