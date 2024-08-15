@@ -90,17 +90,17 @@ $ cd PD-HPL
 
 ### 2.Calculation of covariates
 
-[./Covariates_predict.R](https://github.com/leescu/PD-HPL/blob/main/code/Step.%202%20Covariates.R)
+[./code/Step. 2 Covariates.R](https://github.com/leescu/PD-HPL/blob/main/code/Step.%202%20Covariates.R)
 
  
 ### 3.Data clearn
 
-[./data_clearn.R](https://github.com/leescu/PD-DM/blob/main/data_clearn.R)
+[./code/Step. 3 Arangement.R](https://github.com/leescu/PD-HPL/blob/main/code/Step.%203%20Arangement.R)
 
 
 ### 4. Tables&Figures
 
-[./Table&Figure.R](https://github.com/leescu/PD-DM/blob/main/Table%26Figure.R)
+[./code/Step. 4 Analysis.R](https://github.com/leescu/PD-HPL/blob/main/code/Step.%204%20Analysis.R)
 
 
 ## License
